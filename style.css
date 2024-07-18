@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&display=swap");
+
+*{
+  font-family: "Exo 2", sans-serif;
+}
+
+body{
+  background-color: rgb(20, 16, 16);
+  background-image:url(1000_F_194022358_hAx4d5wtQUcu7nARQRdLVnHRzNYhQs1x.jpg);
+  background-repeat:repeat-y
+}
+
+h1 {
+  background: linear-gradient(45deg, #42c3dd 0%,#96c54e 30%,#d4d5c7 63%,#e6ebde 100%) !important;
+  /* -webkit-background-clip: text !important; */
+  background-clip: text !important;
+  color: rgb(231, 27, 27) !important;
+}
+
+p{
+    background: linear-gradient(45deg, #42c3dd 0%,#96c54e 30%,#d4d5c7 63%,#e6ebde 100%) !important;
+    /* -webkit-background-clip: text !important; */
+    background-clip: text !important;
+    color: #12e123 !important;
+}
+
+
+.card-img-top{
+  width: 75% !important;
+  height: 75% !important;
+  margin: 20% 0px 20% 50px !important;
+}
+
+.text-gold{
+  color: #B1D04A !important;
+}
+
+.border-gold{
+  border: 2px solid #B1D04A !important;
+  color: #B1D04A !important;
+}
+
+.bb-gold{
+  border-bottom: 2px solid #B1D04A !important;
+}
